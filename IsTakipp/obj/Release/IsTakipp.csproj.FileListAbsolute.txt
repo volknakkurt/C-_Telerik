@@ -1,0 +1,6 @@
+C:\SampleProjects\IsTakipp\IsTakipp\obj\Release\IsTakipp.csproj.AssemblyReference.cache
+C:\SampleProjects\IsTakipp\IsTakipp\obj\Release\IsTakipp.FrmKullanıcı.resources
+C:\SampleProjects\IsTakipp\IsTakipp\obj\Release\IsTakipp.Form2.resources
+C:\SampleProjects\IsTakipp\IsTakipp\obj\Release\IsTakipp.Properties.Resources.resources
+C:\SampleProjects\IsTakipp\IsTakipp\obj\Release\IsTakipp.csproj.GenerateResource.cache
+C:\SampleProjects\IsTakipp\IsTakipp\obj\Release\IsTakipp.exe.licenses
